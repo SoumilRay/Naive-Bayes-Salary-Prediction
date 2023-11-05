@@ -10,7 +10,7 @@ Loaded the dataset into a pandas DataFrame
 
 Split the dataset into training and testing sets
 
-Implement a function to calculate the prior probability of each class in the training set
+Implemented a function to calculate the prior probability of each class in the training set
 
 Implemented a function to calculate the conditional probability of each feature given to 
 each class in the training set
