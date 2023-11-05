@@ -18,5 +18,5 @@ each class in the training set
 Implemented a function to predict the class of a given instance using the Naive Bayes 
 algorithm
 
-Calculated the accuracy, F1-score, precision and recall of your Naive Bayes classifier on the 
+Calculated the accuracy, F1-score, precision and recall of the Naive Bayes classifier on the 
 testing set
